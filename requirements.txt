@@ -1,0 +1,14 @@
+
+# Data manipulation
+pandas==2.3.3
+numpy==2.2.6
+
+# Data visualization
+matplotlib==3.10.9
+seaborn==0.13.2
+
+# Machine learning
+scikit-learn==1.7.2
+
+# Jupyter kernel for VS Code notebooks
+ipykernel==7.3.0
