@@ -9,6 +9,10 @@ seaborn==0.13.2
 
 # Machine learning
 scikit-learn==1.7.2
+joblib==1.6.0
+
+# Web application
+streamlit==1.65.0
 
 # Jupyter kernel for VS Code notebooks
 ipykernel==7.3.0
